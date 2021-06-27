@@ -1,3 +1,7 @@
+/*
+ * Author: George Ebbinason
+ */
+
 package com.george.om.cpqservice;
 
 import org.springframework.boot.SpringApplication;

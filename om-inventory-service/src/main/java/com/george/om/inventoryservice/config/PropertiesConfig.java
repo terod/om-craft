@@ -1,3 +1,7 @@
+/*
+ * Author: George Ebbinason
+ */
+
 package com.george.om.inventoryservice.config;
 
 import org.springframework.beans.factory.annotation.Autowired;

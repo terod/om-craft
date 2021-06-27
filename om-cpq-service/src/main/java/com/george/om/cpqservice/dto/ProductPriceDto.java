@@ -1,3 +1,7 @@
+/*
+ * Author: George Ebbinason
+ */
+
 package com.george.om.cpqservice.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;

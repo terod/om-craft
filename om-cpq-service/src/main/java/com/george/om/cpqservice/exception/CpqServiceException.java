@@ -1,3 +1,7 @@
+/*
+ * Author: George Ebbinason
+ */
+
 package com.george.om.cpqservice.exception;
 
 import com.george.om.cpqservice.config.PropertiesConfig;

@@ -1,3 +1,7 @@
+/*
+ * Author: George Ebbinason
+ */
+
 package com.george.om.cpqservice.dto.response;
 
 import com.george.om.cpqservice.exception.CpqServiceException;
@@ -10,6 +14,9 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExcep
 
 @ControllerAdvice
 public class RestExceptionHandler extends ResponseEntityExceptionHandler {
+
+    public RestExceptionHandler() {
+    }
 
     @ExceptionHandler(CpqServiceException.EntityNotFoundException.class)
     public final ResponseEntity handleNotFoundExceptions(Exception ex, WebRequest request) {

@@ -1,3 +1,7 @@
+/*
+ * Author: George Ebbinason
+ */
+
 package com.george.om.productservice.repository;
 
 import com.george.om.productservice.model.Product;

@@ -1,3 +1,7 @@
+/*
+ * Author: George Ebbinason
+ */
+
 package com.george.om.productservice;
 
 import org.springframework.boot.SpringApplication;

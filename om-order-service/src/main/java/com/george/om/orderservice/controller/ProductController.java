@@ -2,8 +2,6 @@ package com.george.om.orderservice.controller;
 
 import com.george.om.orderservice.clients.ServiceCallerFeignClient;
 import com.george.om.orderservice.dto.*;
-import com.george.om.orderservice.dto.mapper.OrderMapper;
-import com.george.om.orderservice.model.Order;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

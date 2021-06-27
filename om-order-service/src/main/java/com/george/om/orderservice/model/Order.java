@@ -1,3 +1,7 @@
+/*
+ * Author: George Ebbinason
+ */
+
 package com.george.om.orderservice.model;
 
 import lombok.Getter;

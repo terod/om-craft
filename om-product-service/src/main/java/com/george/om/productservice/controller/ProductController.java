@@ -1,3 +1,7 @@
+/*
+ * Author: George Ebbinason
+ */
+
 package com.george.om.productservice.controller;
 
 import com.george.om.productservice.dto.ProductDto;

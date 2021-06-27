@@ -1,3 +1,7 @@
+/*
+ * Author: George Ebbinason
+ */
+
 package com.george.om.productservice.exception;
 
 import com.george.om.productservice.config.PropertiesConfig;

@@ -1,3 +1,7 @@
+/*
+ * Author: George Ebbinason
+ */
+
 package com.george.om.cpqservice.service;
 
 import com.george.om.cpqservice.model.ProductPrice;

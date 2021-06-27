@@ -1,3 +1,7 @@
+/*
+ * Author: George Ebbinason
+ */
+
 package com.george.om.inventoryservice.service;
 
 import com.george.om.inventoryservice.model.ProductInventory;

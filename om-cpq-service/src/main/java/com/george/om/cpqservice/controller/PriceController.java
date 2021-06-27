@@ -1,3 +1,8 @@
+
+/*
+ * Author: George Ebbinason
+ */
+
 package com.george.om.cpqservice.controller;
 import com.george.om.cpqservice.dto.ProductPriceDto;
 import com.george.om.cpqservice.dto.mapper.ProductPriceMapper;

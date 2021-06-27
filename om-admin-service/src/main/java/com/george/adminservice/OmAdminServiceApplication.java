@@ -1,3 +1,7 @@
+/*
+ * Author: George Ebbinason
+ */
+
 package com.george.adminservice;
 
 import de.codecentric.boot.admin.server.config.EnableAdminServer;

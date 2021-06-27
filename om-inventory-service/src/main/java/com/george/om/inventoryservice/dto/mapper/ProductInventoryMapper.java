@@ -1,3 +1,7 @@
+/*
+ * Author: George Ebbinason
+ */
+
 package com.george.om.inventoryservice.dto.mapper;
 
 import com.george.om.inventoryservice.dto.ProductInventoryDto;

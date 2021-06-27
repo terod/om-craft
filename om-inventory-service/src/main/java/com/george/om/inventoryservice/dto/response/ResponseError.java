@@ -1,3 +1,7 @@
+/*
+ * Author: George Ebbinason
+ */
+
 package com.george.om.inventoryservice.dto.response;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

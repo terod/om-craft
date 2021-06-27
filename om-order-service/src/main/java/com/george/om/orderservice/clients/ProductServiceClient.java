@@ -1,3 +1,7 @@
+/*
+ * Author: George Ebbinason
+ */
+
 package com.george.om.orderservice.clients;
 
 import com.george.om.orderservice.config.FeignConfig;
