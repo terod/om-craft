@@ -1,0 +1,5 @@
+# Build Docker Image
+docker build --no-cache -f Dockerfile-om-admin-service -t om-admin-service:latest --rm .
+
+# Run Docker Image
+docker run -p 9999:9999 om-admin-service:latest

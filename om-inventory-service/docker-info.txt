@@ -1,0 +1,5 @@
+# Build Docker Image
+docker build --no-cache -f Dockerfile-om-inventory-service -t om-inventory-service:latest --rm .
+
+# Run Docker Image
+docker run -p 9200:9200 om-inventory-service:latest

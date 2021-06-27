@@ -1,0 +1,8 @@
+FROM openjdk:8
+COPY target/om-order-service-0.0.1-SNAPSHOT.jar /opt/lib/
+# ENTRYPOINT ["/usr/bin/java"]
+# ENTRYPOINT ["/opt/java/openjdk/"]
+CMD ["echo","$JAVA_HOME"]
+CMD ["java","-version"]
+CMD ["java","-jar","/opt/lib/om-order-service-0.0.1-SNAPSHOT.jar"]
+EXPOSE 9400

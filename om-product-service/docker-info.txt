@@ -1,0 +1,5 @@
+# Build Docker Image
+docker build --no-cache -f Dockerfile-om-product-service -t om-product-service:latest --rm .
+
+# Run Docker Image
+docker run -p 9100:9100 om-product-service:latest

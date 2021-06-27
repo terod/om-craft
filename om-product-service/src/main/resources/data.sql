@@ -1,0 +1,10 @@
+INSERT INTO OM_PRODUCT (product_id,name, desc, CREATION_DATE, LAST_UPDATED_DATE)
+VALUES (1,'Computer','This is a Computer', sysdate, sysdate);
+INSERT INTO OM_PRODUCT (product_id,name, desc, CREATION_DATE, LAST_UPDATED_DATE)
+VALUES (2,'Desktop','This is a Desktop', sysdate, sysdate);
+INSERT INTO OM_PRODUCT (product_id,name, desc, CREATION_DATE, LAST_UPDATED_DATE)
+VALUES (3,'Mouse','This is a Mouse' ,sysdate, sysdate);
+INSERT INTO OM_PRODUCT (product_id,name, desc, CREATION_DATE, LAST_UPDATED_DATE)
+VALUES (4,'Keyboard','This is a Keyboard' ,sysdate, sysdate);
+INSERT INTO OM_PRODUCT (product_id,name, desc, CREATION_DATE, LAST_UPDATED_DATE)
+VALUES (5,'Printer','This is a Printer' ,sysdate, sysdate);
